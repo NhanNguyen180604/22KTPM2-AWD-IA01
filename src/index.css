@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+:root {
+    --spacing: 1rem;
+}
